@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Procop123
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://www.youtube.com/channel/UCpuD_M1RRSeDPRrqgCtaimw
